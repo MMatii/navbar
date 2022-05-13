@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Comfortaa:wght@600&family=Libre+Baskerville:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body{
+    font-family: "Libre Baskerville", sans-serif ;
+}
+
+.header{
+background-color:#6e1010;
+height: 80px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0 20px;
+}
+
+.nav-list{
+    display: flex;
+    gap: 70px;
+    list-style: none;
+}
+
+.nav-link{
+    color: white;
+}
+
+
+.nav-link:hover{
+text-decoration: underline;
+color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
